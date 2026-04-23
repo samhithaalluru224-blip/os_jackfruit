@@ -6,13 +6,15 @@
 
 ## 1. Team Information
 
-* Name: AMRUTHA KATTIMANI
-
-* SRN: PES1UG24CS054
 
 * Name: SAMHITHA
 
 * SRN: PES1UG24CS050
+
+* Name: AMRUTHA KATTIMANI
+
+* SRN: PES1UG24CS054
+
 
 
 
